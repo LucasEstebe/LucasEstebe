@@ -24,7 +24,7 @@ Hello! I am a web developer with over two years of experience. I am proficient i
 
 ## Contact
 
-- Email: lucas.estebe@gmail.com
+- Email: lucasestebe@gmail.com
 - LinkedIn: [Lucas Estebe](https://www.linkedin.com/in/lucas-estebe)
 
 I am always looking for new opportunities to learn and grow as a developer. If you have a project that you think I could be a good fit for, please don't hesitate to reach out!
