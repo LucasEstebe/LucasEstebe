@@ -1,6 +1,6 @@
 # Lucas Estebe - Web Developer
 
-Hello! I am a web developer with over two years of experience. I am proficient in technologies such as Symfony, JavaScript, and MySQL, and I have a strong interest in sports and blockchain technologies.
+Hello! I am a web developer with over two years of experience. I am proficient in technologies such as Symfony, JavaScript, and MySQL.
 
 ## Skills
 
