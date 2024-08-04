@@ -1,6 +1,6 @@
 # Lucas Estebe - Web Developer
 
-Hello! I am a web developer with over two years of experience. I am proficient in technologies such as Symfony, JavaScript, and MySQL.
+Hello! I am a web developer with over four years of experience. I am proficient in technologies such as PHP, Symfony, React, JavaScript, and MySQL.
 
 ## Skills
 
@@ -10,17 +10,6 @@ Hello! I am a web developer with over two years of experience. I am proficient i
 - Git
 - Docker
 - Proficient in Spanish, French, and English
-
-## Experience
-
-**Web Developer at Majelice SAS** (20XX-present)
-
-- Developed a web app for organizing voting instances for companies.
-- Worked on a team to deliver complex solutions and meet project deadlines.
-
-## Projects
-
-- [Voting App](https://github.com/LucasEstebe/voting-app): A web app for organizing voting instances for companies.
 
 ## Contact
 
